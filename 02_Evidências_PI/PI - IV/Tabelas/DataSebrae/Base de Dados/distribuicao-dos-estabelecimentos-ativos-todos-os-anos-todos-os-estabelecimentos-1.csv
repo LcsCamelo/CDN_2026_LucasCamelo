@@ -1,0 +1,75 @@
+Grande Sector ID,Grande Sector,Division ID,Division,Establishments
+1,Agricultura,A01,"Agricultura, Pecuária E Serviços Relacionados",153
+1,Agricultura,A02,Produção Florestal,7
+1,Agricultura,A03,Pesca E Aqüicultura,1
+2,Indústria,B08,Extração De Minerais Não Metálicos,1
+2,Indústria,C10,Fabricação De Produtos Alimentícios,197
+2,Indústria,C11,Fabricação De Bebidas,4
+2,Indústria,C13,Fabricação De Produtos Têxteis,71
+2,Indústria,C14,Confecção De Artigos Do Vestuário E Acessórios,205
+2,Indústria,C15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",8
+2,Indústria,C16,Fabricação De Produtos De Madeira,32
+2,Indústria,C17,"Fabricação De Celulose, Papel E Produtos De Papel",18
+2,Indústria,C18,Impressão E Reprodução De Gravações,43
+2,Indústria,C19,"Fabricação De Coque, De Produtos Derivados Do Petróleo E De Biocombustíveis",1
+2,Indústria,C20,Fabricação De Produtos Químicos,11
+2,Indústria,C22,Fabricação De Produtos De Borracha E De Material Plástico,17
+2,Indústria,C23,Fabricação De Produtos De Minerais Não Metálicos,31
+2,Indústria,C24,Metalurgia,6
+2,Indústria,C25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",195
+2,Indústria,C26,"Fabricação De Equipamentos De Informática, Produtos Eletrônicos E Ópticos",7
+2,Indústria,C27,"Fabricação De Máquinas, Aparelhos E Materiais Elétricos",12
+2,Indústria,C28,Fabricação De Máquinas E Equipamentos,23
+2,Indústria,C29,"Fabricação De Veículos Automotores, Reboques E Carrocerias",7
+2,Indústria,C31,Fabricação De Móveis,81
+2,Indústria,C32,Fabricação De Produtos Diversos,89
+2,Indústria,C33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",232
+2,Indústria,D35,"Eletricidade, Gás E Outras Utilidades",9
+2,Indústria,E36,"Captação, Tratamento E Distribuição De Água",4
+2,Indústria,E38,"Coleta, Tratamento E Disposição De Resíduos, Recuperação De Materiais",43
+2,Indústria,F41,Construção De Edifícios,183
+2,Indústria,F42,Obras De Infraestrutura,30
+2,Indústria,F43,Serviços Especializados Para Construção,1088
+3,Comércio,G45,Comércio E Reparação De Veículos Automotores E Motocicletas,686
+3,Comércio,G46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",263
+3,Comércio,G47,Comércio Varejista,3185
+4,Serviços,H49,Transporte Terrestre,663
+4,Serviços,H50,Transporte Aquaviário,3
+4,Serviços,H52,Armazenamento E Atividades Auxiliares Dos Transportes,268
+4,Serviços,H53,Correio E Outras Atividades De Entrega,375
+4,Serviços,H55,Alojamento,9
+4,Serviços,I56,Alimentação,1162
+4,Serviços,J58,Edição E Edição Integrada À Impressão,111
+4,Serviços,J59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão, Gravação De Som E Edição De Música",73
+4,Serviços,J60,Atividades De Rádio E De Televisão,3
+4,Serviços,J61,Telecomunicações,41
+4,Serviços,J62,Atividades Dos Serviços De Tecnologia Da Informação,101
+4,Serviços,J63,Atividades De Prestação De Serviços De Informação,21
+4,Serviços,K64,Atividades De Serviços Financeiros,130
+4,Serviços,K65,"Seguros, Resseguros, Previdência Complementar E Planos De Saúde",1
+4,Serviços,K66,"Atividades Auxiliares Dos Serviços Financeiros, Seguros, Previdência Complementar E Planos De Saúde",47
+4,Serviços,L68,Atividades Imobiliárias,101
+4,Serviços,M69,"Atividades Jurídicas, De Contabilidade E De Auditoria",90
+4,Serviços,M70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,55
+4,Serviços,M71,"Serviços De Arquitetura E Engenharia, Testes E Análises Técnicas",92
+4,Serviços,M72,Pesquisa E Desenvolvimento Científico,5
+4,Serviços,M73,Publicidade E Pesquisa De Mercado,584
+4,Serviços,M74,"Outras Atividades Profissionais, Científicas E Técnicas",104
+4,Serviços,M75,Atividades Veterinárias,16
+4,Serviços,N77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,89
+4,Serviços,N78,"Seleção, Agenciamento E Locação De Mão De Obra",2
+4,Serviços,N79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",36
+4,Serviços,N80,"Atividades De Vigilância, Segurança E Investigação",21
+4,Serviços,N81,Serviços Para Edifícios E Atividades Paisagísticas,222
+4,Serviços,N82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",730
+4,Serviços,P85,Educação,556
+4,Serviços,Q86,Atividades De Atenção À Saúde Humana,297
+4,Serviços,Q87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",192
+4,Serviços,Q88,Serviços De Assistência Social Sem Alojamento,8
+4,Serviços,R90,"Atividades Artísticas, Criativas E De Espetáculos",53
+4,Serviços,R93,Atividades Esportivas E De Recreação E Lazer,72
+4,Serviços,S94,Atividades De Organizações Associativas,253
+4,Serviços,S95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,234
+4,Serviços,S96,Outras Atividades De Serviços Pessoais,1158
+4,Serviços,T97,Serviços Domésticos,313
+5,Administração pública,O84,"Administração Pública, Defesa E Seguridade Social",12

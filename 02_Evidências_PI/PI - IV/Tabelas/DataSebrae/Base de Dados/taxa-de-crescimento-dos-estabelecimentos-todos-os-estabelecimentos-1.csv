@@ -1,0 +1,49 @@
+Grande Sector ID,Grande Sector,Section ID,Section,Division ID,Division,Status Year,Establishments,Establishments Growth,Establishments Growth Value,Establishment Prev Year,Share
+1,Agricultura,A,"Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura",A01,"Agricultura, Pecuária E Serviços Relacionados",2024,5,-0.6428571428571429,-9,14,0.005917159763313609
+2,Indústria,C,Indústrias De Transformação,C10,Fabricação De Produtos Alimentícios,2024,13,-0.6829268292682927,-28,41,0.015384615384615385
+2,Indústria,C,Indústrias De Transformação,C13,Fabricação De Produtos Têxteis,2024,1,-0.9333333333333333,-14,15,0.001183431952662722
+2,Indústria,C,Indústrias De Transformação,C14,Confecção De Artigos Do Vestuário E Acessórios,2024,4,-0.8260869565217391,-19,23,0.004733727810650888
+2,Indústria,C,Indústrias De Transformação,C15,"Preparação De Couros E Fabricação De Artefatos De Couro, Artigos Para Viagem E Calçados",2024,1,-0.6666666666666666,-2,3,0.001183431952662722
+2,Indústria,C,Indústrias De Transformação,C16,Fabricação De Produtos De Madeira,2024,2,-0.5,-2,4,0.002366863905325444
+2,Indústria,C,Indústrias De Transformação,C18,Impressão E Reprodução De Gravações,2024,1,-0.8888888888888888,-8,9,0.001183431952662722
+2,Indústria,C,Indústrias De Transformação,C22,Fabricação De Produtos De Borracha E De Material Plástico,2024,1,,,1,0.001183431952662722
+2,Indústria,C,Indústrias De Transformação,C25,"Fabricação De Produtos De Metal, Exceto Máquinas E Equipamentos",2024,12,-0.7073170731707317,-29,41,0.014201183431952662
+2,Indústria,C,Indústrias De Transformação,C31,Fabricação De Móveis,2024,8,-0.6521739130434783,-15,23,0.009467455621301775
+2,Indústria,C,Indústrias De Transformação,C32,Fabricação De Produtos Diversos,2024,3,-0.75,-9,12,0.0035502958579881655
+2,Indústria,C,Indústrias De Transformação,C33,"Manutenção, Reparação E Instalação De Máquinas E Equipamentos",2024,14,-0.5882352941176471,-20,34,0.016568047337278107
+2,Indústria,F,Construção,F41,Construção De Edifícios,2024,3,-0.7692307692307693,-10,13,0.0035502958579881655
+2,Indústria,F,Construção,F42,Obras De Infraestrutura,2024,2,-0.6,-3,5,0.002366863905325444
+2,Indústria,F,Construção,F43,Serviços Especializados Para Construção,2024,61,-0.7370689655172413,-171,232,0.07218934911242604
+3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G45,Comércio E Reparação De Veículos Automotores E Motocicletas,2024,35,-0.65,-65,100,0.04142011834319527
+3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G46,"Comércio Por Atacado, Exceto Veículos Automotores E Motocicletas",2024,7,-0.8205128205128205,-32,39,0.008284023668639054
+3,Comércio,G,"Comércio, Reparação De Veículos Automotores E Motocicletas",G47,Comércio Varejista,2024,138,-0.6884875846501128,-305,443,0.16331360946745563
+4,Serviços,H,"Transporte, armazenagem e correio",H49,Transporte Terrestre,2024,66,-0.5950920245398773,-97,163,0.07810650887573964
+4,Serviços,H,"Transporte, armazenagem e correio",H52,Armazenamento E Atividades Auxiliares Dos Transportes,2024,35,-0.5625,-45,80,0.04142011834319527
+4,Serviços,H,"Transporte, armazenagem e correio",H53,Correio E Outras Atividades De Entrega,2024,38,-0.6859504132231405,-83,121,0.04497041420118343
+4,Serviços,I,Alojamento E Alimentação,I56,Alimentação,2024,79,-0.5989847715736041,-118,197,0.09349112426035502
+4,Serviços,J,Informação E Comunicação,J58,Edição E Edição Integrada À Impressão,2024,6,-0.8235294117647058,-28,34,0.007100591715976331
+4,Serviços,J,Informação E Comunicação,J59,"Atividades Cinematográficas, Produção De Vídeos E De Programas De Televisão, Gravação De Som E Edição De Música",2024,6,-0.7272727272727273,-16,22,0.007100591715976331
+4,Serviços,J,Informação E Comunicação,J61,Telecomunicações,2024,3,-0.7272727272727273,-8,11,0.0035502958579881655
+4,Serviços,J,Informação E Comunicação,J62,Atividades Dos Serviços De Tecnologia Da Informação,2024,2,-0.8461538461538461,-11,13,0.002366863905325444
+4,Serviços,K,"Atividades Financeiras, De Seguros E Serviços Relacionados",K64,Atividades De Serviços Financeiros,2024,3,-0.8571428571428571,-18,21,0.0035502958579881655
+4,Serviços,L,Atividades Imobiliárias,L68,Atividades Imobiliárias,2024,3,-0.7,-7,10,0.0035502958579881655
+4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M69,"Atividades Jurídicas, De Contabilidade E De Auditoria",2024,3,-0.4,-2,5,0.0035502958579881655
+4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M70,Atividades De Sedes De Empresas E De Consultoria Em Gestão Empresarial,2024,1,-0.8888888888888888,-8,9,0.001183431952662722
+4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M71,"Serviços De Arquitetura E Engenharia, Testes E Análises Técnicas",2024,3,-0.8571428571428571,-18,21,0.0035502958579881655
+4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M73,Publicidade E Pesquisa De Mercado,2024,59,-0.609271523178808,-92,151,0.06982248520710059
+4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M74,"Outras Atividades Profissionais, Científicas E Técnicas",2024,5,-0.782608695652174,-18,23,0.005917159763313609
+4,Serviços,M,"Atividades Profissionais, Científicas E Técnicas",M75,Atividades Veterinárias,2024,1,-0.6666666666666666,-2,3,0.001183431952662722
+4,Serviços,N,Atividades Administrativas E Serviços Complementares,N77,Aluguéis Não Imobiliários E Gestão De Ativos Intangíveis Não Financeiros,2024,2,-0.875,-14,16,0.002366863905325444
+4,Serviços,N,Atividades Administrativas E Serviços Complementares,N79,"Agências De Viagens, Operadores Turísticos E Serviços De Reservas",2024,2,-0.6,-3,5,0.002366863905325444
+4,Serviços,N,Atividades Administrativas E Serviços Complementares,N80,"Atividades De Vigilância, Segurança E Investigação",2024,2,-0.5,-2,4,0.002366863905325444
+4,Serviços,N,Atividades Administrativas E Serviços Complementares,N81,Serviços Para Edifícios E Atividades Paisagísticas,2024,4,-0.8260869565217391,-19,23,0.004733727810650888
+4,Serviços,N,Atividades Administrativas E Serviços Complementares,N82,"Serviços De Escritório, De Apoio Administrativo E Outros Serviços Prestados Principalmente Às Empresas",2024,52,-0.6809815950920245,-111,163,0.06153846153846154
+4,Serviços,P,Educação,P85,Educação,2024,31,-0.7155963302752294,-78,109,0.036686390532544376
+4,Serviços,Q,Saúde Humana E Serviços Sociais,Q86,Atividades De Atenção À Saúde Humana,2024,17,-0.6304347826086957,-29,46,0.020118343195266272
+4,Serviços,Q,Saúde Humana E Serviços Sociais,Q87,"Atividades De Atenção À Saúde Humana Integradas Com Assistência Social, Prestadas Em Residências Coletivas E Particulares",2024,14,-0.6585365853658537,-27,41,0.016568047337278107
+4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R90,"Atividades Artísticas, Criativas E De Espetáculos",2024,1,-0.9166666666666666,-11,12,0.001183431952662722
+4,Serviços,R,"Artes, Cultura, Esporte E Recreação",R93,Atividades Esportivas E De Recreação E Lazer,2024,2,-0.6666666666666666,-4,6,0.002366863905325444
+4,Serviços,S,Outras Atividades De Serviços,S94,Atividades De Organizações Associativas,2024,5,-0.6428571428571429,-9,14,0.005917159763313609
+4,Serviços,S,Outras Atividades De Serviços,S95,Reparação E Manutenção De Equipamentos De Informática E Comunicação E De Objetos Pessoais E Domésticos,2024,19,-0.5365853658536586,-22,41,0.022485207100591716
+4,Serviços,S,Outras Atividades De Serviços,S96,Outras Atividades De Serviços Pessoais,2024,57,-0.7272727272727273,-152,209,0.06745562130177515
+4,Serviços,T,Serviços Domésticos,T97,Serviços Domésticos,2024,13,-0.7936507936507936,-50,63,0.015384615384615385
