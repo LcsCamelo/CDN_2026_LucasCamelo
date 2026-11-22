@@ -43,9 +43,9 @@ A estrutura deste repositório reflete a linha de formação e o aumento de comp
 
 ## 📁 Estrutura do Repositório
 ```text
-├── docs/               # Relatórios técnicos, Guia de Operação e Monografia (ABNT).
-├── notebooks/          # Processamento, EDA e Modelagem (Jupyter/Python).
-├── data/               # Conjuntos de dados (Anonimizados conforme LGPD).
-├── dashboard/          # Painéis interativos (Power BI / Streamlit).
-├── deploy/             # Arquivos de configuração (Docker, APIs, FastAPI).
-└── requirements.txt    # Dependências do ambiente técnico.
+├── 01_Documento_ABNT   # Monografia (ABNT).
+├── 02_Evidencias_PI    # Documentos,Apresentações e monografias de cada Projeto Integrador Apresentado
+├── 03_Projetos_Extras  # Resumo apresentado no I Simpósio de Ciêecia de Dados
+├── 04_Apresentação_Banca  # Apresentação Realizada para aprovação da Banca
+└── 05_Referências      # Guias dos Projetos Integradores
+
