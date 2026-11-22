@@ -5,14 +5,14 @@ Trabalho de Graduação (TG) do curso de Ciência de Dados para Negócios.
 
 ## 🎓 Trabalho de Graduação - Fatec Votorantim
 **Curso:** Superior de Tecnologia em Ciência de Dados para Negócios  
-**Instituição:** Faculdade de Tecnologia de Votorantim - R11 (Centro Paula Souza) 
+**Instituição:** Faculdade de Tecnologia de Votorantim (Centro Paula Souza) 
 **Eixo Tecnológico:** Informação e Comunicação 
 
 ---
 
 ## 👨‍💻 Identificação
 * **Discente:** Lucas Camelo
-* **Orientador:** Prof. à Definir
+* **Orientador:** Prof. Carla Pineda Lechugo
 **Período:** 2023 - 2026
 
 ---
